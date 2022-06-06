@@ -1,1 +1,1 @@
-# rsschool-cv
+https://vikuper.github.io/rsschool-cv/
