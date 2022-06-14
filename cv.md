@@ -9,7 +9,7 @@
 
 **Discord**: @vikuper
 
-## **About me** ##
+## **Summary** ##
 I graduated from BNTU with bachelor degree in logistic. I had working as customer relations specialist in transport logistics center during 5 years.
 I have no experience in frontend development, but I believe I can become good developer due to knowledge that I can get at the Rolling Scope School. Subsequently I want to be useful and become a part of team in IT company.
 
@@ -20,9 +20,22 @@ I have no experience in frontend development, but I believe I can become good de
 - eager to learn
 - hard-working 
 
+## **Education** ##
+
+Belarusian National Technical University
+
+## **Skills** ##
+
+-Web-development: HTML5, CSS3 
+◦Version control: Github
+
 ## **Courses** ##
 
 RS School Course “JavaScript/Front-end. Stage0” (in progress)
+
+## **Projects** ##
+
+CV
 
 ## **Languages** ##
 
